@@ -1,4 +1,4 @@
-README
+Instructions
 
 Architecture
 
@@ -15,7 +15,7 @@ Create environment variables in the Lambda Function
 BOT_ID = Your Telegram BOT ID. Example: 123456789:XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 CHAT_ID = Is your channel ID or your BOT chat window id
 
-Paste the code TelegramNotify.py in the Function code
+Paste the code TelegramNotifier.py in the Function code
 
 Add SNS trigger
 
